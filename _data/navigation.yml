@@ -7,8 +7,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Archive"
-    url: /archive/
+#  - title: "Archive"
+#    url: /archive/
     
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
