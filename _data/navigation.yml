@@ -8,7 +8,7 @@ main:
     url: /cv/
     
   - title: "Archive"
-    url /archive/
+    url: /archive/
     
   - title: "Blog Posts"
     url: /year-archive/
