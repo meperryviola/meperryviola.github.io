@@ -6,6 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-
-<embed src="{meperryviola/meperryviola.github.io/files/Madison_Perry_CV.pdf" width="650" height="800" type='application/pdf'>
+Click [here](files/Madison_Perry_CV (1).pdf) to download pdf.
