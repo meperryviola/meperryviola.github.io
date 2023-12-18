@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Click [here](https://meperryviola.github.io/files/Madison_Perry_CV%20(1).pdf) to download pdf.
+Click [here](https://meperryviola.github.io/files/Madison_Resume_Winter_2023.pdf) to download pdf.
