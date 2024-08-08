@@ -16,3 +16,5 @@ I wrote my distinguished major thesis on the impacts of variable access to child
 
 My 2021 Spring term paper, completed under supervision of L. Friedberg (UVA), was the recipient of UVA Economics Department award for "Best Public Policy Paper By An Undergraduate".
  [A longer look at merit aid, educational attainment, and post-degree migration decisions](https://github.com/meperryviola/meperryviola.github.io/blob/f542f78912366d2e1b927dfe9d1833e558be5533/perry_4880_paper.fld/perry_4880_paper%20copy.docx)
+
+  I have extensive familiarity with CPS basic monthly and CPS ASEC data. I have also worked with the Fujita-Ramey expanded Palmer data that captures entire labor market histories of persons in 6 major US cities during the 1940s. I have compiled and cleaned a bespoke dataset of school facilies condition assessments in Philadelphia. This data is not yet made public but I hope to host it on my github and this site within the next 2 years. I have also worked with restricted-access Social Security data, the Health and Retirement Survey, American Community Survey, and a variety of macroeconomic indicator time series data. 
