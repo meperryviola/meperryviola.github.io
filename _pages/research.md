@@ -1,8 +1,7 @@
 ---
+title: "Research"
 layout: archive
-title: 
 permalink: /research/
-author_profile: true
 ---
 
 My fields of interest are <b> labor and public economics</b>. I generally gravitate towards questions related to children/families' health, education, labor supply decisions, and social safety net program design. 
