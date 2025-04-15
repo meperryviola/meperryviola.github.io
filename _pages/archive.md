@@ -7,15 +7,15 @@ permalink: /archive/
 
 ### Old Papers from undergrad
 
-Kept here mostly so that I don't lose the files. 
+Kept here mostly so that I don't lose the files. Also I think it's important to remember that we were all once undergrads. 
 
 
-My research from ECON 4880 Policy Analysis Seminar, completed under supervision of L. Friedberg at the University of Virginia. Recipient of UVA Economics Department award for "Best Public Policy Paper By An Undergraduate" 2020-2021.
+My research from ECON 4880 Policy Analysis Seminar:
  [A LONGER LOOK AT MERIT AID, EDUCATIONAL ATTAINMENT AND POST-DEGREE MIGRATION DECISIONS](https://meperryviola.github.io/files/perry_4880_paper%20copy.docx)
  
 Submitted as final project for ECON 4420 Macroeconomic Policy: ["It's the Economy's Real Resources, Stupid!": A Brief Inquiry into Modern Monetary Theory](https://meperryviola.github.io/files/MMT_formatted_perry.pdf)
  
-[THEORIZING THE FORMATION OF THE JAPANESE NATION-STATE THROUGHT PHILOSOPHIC AND RHETORICAL TEXTS](https://meperryviola.github.io/files/Perry_Meiji_paper2.pdf) for HIEA 3171
+[THEORIZING THE FORMATION OF THE JAPANESE NATION-STATE THROUGH PHILOSOPHIC AND RHETORICAL TEXTS](https://meperryviola.github.io/files/Perry_Meiji_paper2.pdf) for HIEA 3171
 
 [BELONGING AND THE NATION-STATE FORM IN MEIJI JAPAN](https://meperryviola.github.io/files/perry_meiji_final.pdf) - Final paper from HIEA 3171
 
