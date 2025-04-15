@@ -1,5 +1,5 @@
 ---
-title: "Old school papers"
+title: "Archive"
 layout: archive
 permalink: /archive/
 ---
