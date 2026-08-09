@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  avatar           : 
-  bio              : 
-  location         : 
-  employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : "madison.perry@phil.frb.org"
+  name             : "Madison E. Perry"
+  avatar           : "headshot.jpg"
+  bio              : "Research Associate, Federal Reserve Bank of Philadelphia"
+  location         : "Philadelphia, PA"
+  employer         : "Federal Reserve Bank of Philadelphia"
+  pubmed           :
+  googlescholar    :   # e.g. https://scholar.google.com/citations?user=XXXX
+  email            : "perry.madison.e@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "meperryviola"
   google_plus      :
   keybase          :
   instagram        :
