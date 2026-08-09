@@ -19,21 +19,20 @@ redirect_from:
 <div class="home-lead">
   <div class="home-lead__text" markdown="1">
 
-I am a Research Associate at the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). My fields of interest are **labor and public economics** — I gravitate toward questions about children's and families' health, education, labor-supply decisions, and the design of the social safety net. I am applying to Economics PhD programs in the 2025/2026 cycle.
+I am a research associate at the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). I work with the empirical macro group, primarily on macro-labor topics using a micro-data toolkit.
 
-I am completing an M.S. in Economics at Drexel University part-time (finishing May 2026) while working full-time at the Fed, and I hold a B.A. in Economics and Mathematics from the University of Virginia (2022).
+I hold a B.A. in Economics and Mathematics from the University of Virginia (2022). I am completing an M.S. in Economics at Drexel University part-time (finishing Dec 2026) while working full-time at the Fed.
 
-In my (very limited) free hours, I play viola in the South Jersey Pops symphony.
+In my (very limited) free hours, I play viola in the South Jersey Pops symphony!
 
   </div>
   <figure class="home-lead__photo">
     <img src="/images/headshot.jpg" alt="Madison E. Perry">
-    <figcaption>Madison E. Perry</figcaption>
   </figure>
 </div>
 
 <div class="info-block">
-  <div class="info-row"><span class="info-label">Fields:</span> Labor economics, Public economics</div>
+  <div class="info-row"><span class="info-label">Fields:</span> Labor economics, Public economics, Macro-Labor, Education</div>
   <div class="info-row"><span class="info-label">Email:</span> <a href="mailto:perry.madison.e@gmail.com">perry.madison.e@gmail.com</a></div>
   <div class="info-row"><span class="info-label">CV:</span> <a href="/files/Madison_Perry_CV.pdf">Available here (PDF)</a></div>
   <div class="info-row info-links">

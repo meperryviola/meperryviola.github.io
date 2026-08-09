@@ -51,7 +51,10 @@ a:visited { color: var(--link); }
 strong { font-weight: 700; }
 
 /* ---- Masthead / top navigation --------------------------------------- */
-.masthead {
+/* Hidden: the name already appears large in the banner, so the top bar is
+   redundant and its only link (the name) just reloads the page. */
+.masthead { display: none; }
+.masthead__x-unused {
   border-bottom: 1px solid var(--rule);
   box-shadow: none;
   background: var(--bg);
