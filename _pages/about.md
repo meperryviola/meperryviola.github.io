@@ -5,7 +5,8 @@ excerpt: "Research Associate, Federal Reserve Bank of Philadelphia"
 layout: single
 author_profile: false
 header:
-  overlay_image: /images/banner.jpg
+  # NOTE: the theme's hero template prepends "/images/", so use a bare filename here.
+  overlay_image: banner.jpg
   overlay_color: "#33404d"
   overlay_filter: 0.35
 redirect_from:
